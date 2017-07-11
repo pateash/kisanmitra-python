@@ -1,9 +1,11 @@
 # kisanmitra-python
-backend machine learning for prediction in <a href='http://kisanmitra.co'>kisanmitra.co</a>
 <p align="center"><img src="http://www.indiawaterportal.org/sites/indiawaterportal.org/files/KSY.jpg"></p>
 
 <p align="center">
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
+<a href="https://packagist.org/packages/ashishpatel0720/kisanmitra"><img src="https://poser.pugx.org/ashishpatel0720/kisanmitra/downloads" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/ashishpatel0720/kisanmitra"><img src="https://poser.pugx.org/ashishpatel0720/kisanmitra/v/unstable.svg" alt="Latest UnStable Version"></a>
+<a href="https://packagist.org/packages/ashishpatel0720/kisanmitra"><img src="https://poser.pugx.org/ashishpatel0720/kisanmitra/v/stable.svg" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/ashishpatel0720/kisanmitra"><img src="https://poser.pugx.org/ashishpatel0720/kisanmitra/license.svg" alt="License"></a>
 </p>
 
 ## About Kisanmitra
@@ -14,10 +16,10 @@ an educated farmer can do way better than a experienced uneducated one, because 
 to make proper planning about his/her future.
 using kisanmitra , one can predict the crop yield for next 5 year.
 
-- [Simple, fast Algorithm](https://kisanmitra.co/predict).
-- Expressive, intuitive visualization Using Charts(https://kisanmitra.co/visualize).
-- [Robust background machine learning](https://kisanmitra.co/about).
-- [Hardworking Team](https://kisanmitra.com/team).
+- [Simple, fast Algorithm](https://kisanmitra.ml/predict).
+- Expressive, intuitive visualization Using Charts(https://kisanmitra.ml/visualize).
+- [Robust background machine learning](https://kisanmitra.ml/about).
+- [Hardworking Team](https://kisanmitra.ml/team).
 
 kisanmitra is accessible, yet powerful  tools needed for crop yeild production.
 A superb combination of simplicity, elegance, and innovation give you tools you need to properly regulate your
@@ -29,16 +31,19 @@ farming strategies according to environment and market.
 <img width='250' height='200'  src="https://camo.githubusercontent.com/5ceadc94fd40688144b193fd8ece2b805d79ca9b/68747470733a2f2f6c61726176656c2e636f6d2f6173736574732f696d672f636f6d706f6e656e74732f6c6f676f2d6c61726176656c2e737667">
 </p>
 <p>
-<img width='250' height='100' src="https://www.doc.ic.ac.uk/project/2015/362/g1536201/scikit-learn/doc/themes/scikit-learn/static/img/scikit-learn-logo.png">
+<img width='250' height='100' src="http://scikit-learn.org/stable/_static/scikit-learn-logo-small.png">
 </p>
-
-
-## How to use
-
 
 ## Contributing
 You are welcome to contribute to this project,
 Thank you for considering contributing for the greater good for farmers! 
+
+**steps**
+- fork or clone project
+- run `composer install`
+- edit `env.example` and create `env` file for your settings
+- that's it happy coding..
+
 ## Vulnerabilities
 
 If you discover a vulnerability within kisanmitra, please send an e-mail to Ashish Patel at ashishpatel0720@gmail.com. All  vulnerabilities will be promptly addressed.
