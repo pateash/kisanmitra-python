@@ -1,4 +1,4 @@
-# kisanmitra-python
+# kisanmitra-python - Python Machine Learning For Kisanmitra
 <p align="center"><img src="http://www.indiawaterportal.org/sites/indiawaterportal.org/files/KSY.jpg"></p>
 
 <p align="center">
